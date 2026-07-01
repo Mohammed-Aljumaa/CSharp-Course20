@@ -1,136 +1,119 @@
-# 📘 C# Course 20  
+<h1 align="center">📘 C# Course 20</h1>
+<p align="center">
 Advanced C# programming concepts explained through practical, structured, lesson‑by‑lesson projects.
-
-هذا المستودع يحتوي على جميع دروس **C#‑Course20**، كل درس داخل مجلد مستقل، وكل مجلد يحتوي مشروع كامل يشرح فكرة محددة من لغة C#.  
-الريبو قابل للتطوير — كل درس جديد يتم إضافته هنا مباشرة.
+<br>
+This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <strong>Dr. Mohammed Abu‑Hadhoud</strong>.
+<br>
+🔗 <a href="https://programmingadvices.com/p/roadmap" target="_blank">ProgrammingAdvices Roadmap</a>
+</p>
 
 ---
 
-## 🔐 What Makes This Course Different  
+## 📑 Table of Contents
+- [What Makes This Course Different](#-what-makes-this-course-different)
+- [What You Will Learn](#-what-you-will-learn)
+- [Lessons Overview](#-lessons-overview)
+- [Requirements](#-requirements)
+- [Updates](#-updates)
+- [Clean Structure](#-clean-structure)
+- [Badges](#-badges)
+- [Author](#-author)
+- [Contact](#-contact)
+- [Ready for Expansion](#-ready-for-expansion)
+
+---
+
+## 🔐 What Makes This Course Different
 - Focuses on **advanced programming concepts**, not beginner repetition  
 - Explains **why features exist** and **when to use them**  
 - Teaches patterns used in **real desktop, backend, and enterprise systems**  
 - Builds confidence with **events, delegates, multithreading, async, and reflection**  
-- Prepares you for **large-scale systems and frameworks** later  
+- Prepares you for **large-scale systems and frameworks**
 
 👉 Many developers know *how to write C#*, but not how C# works at a deeper level.
 
 ---
 
-## 📖 What You Will Learn  
-By the end of this course, you will be able to:
+## 📖 What You Will Learn
 
-### 🔹 Core Skills  
-- Pass data correctly between forms and components  
-- Design and use **User Controls** and reusable UI components  
-- Understand and apply **Events** and **Delegates** confidently  
+### 🧩 Core Skills
+- Passing data between forms and components  
+- Designing reusable **User Controls**  
+- Understanding and applying **Events** and **Delegates**
 
-### 🔹 Delegates & Functional Programming  
+### ⚙️ Delegates & Functional Programming
 - Delegates & multicast delegates  
 - Func, Action, Predicate  
-- Lambda expressions (and when to use them)
+- Lambda expressions  
 
-### 🔹 Resource & Memory Management  
+### 🧠 Resource & Memory Management
 - using statements  
 - IDisposable patterns  
 
-### 🔹 Advanced C# Features  
+### 🚀 Advanced C# Features
 - Nullable types  
-- Serialization & deserialization (XML, JSON, Binary)  
+- Serialization (XML, JSON, Binary)  
 - Attributes (built‑in and custom)  
-- Reflection for dynamic behavior and metadata  
+- Reflection  
 
-### 🔹 Deep Language Concepts  
+### 🔍 Deep Language Concepts
 - Mutable vs immutable types  
-- Generics (methods and classes)  
+- Generics  
 - Operator overloading  
 
-### 🔹 System-Level Features  
+### 🖥 System-Level Features
 - Windows Registry  
-- Application configuration (App.config)  
-- Logging (Event Log)
+- App.config  
+- Logging  
 
-### 🔹 Concurrency & Parallelism  
-- Multithreading fundamentals  
-- Thread synchronization & race conditions  
-- Async programming & Tasks  
+### 🔀 Concurrency & Parallelism
+- Multithreading  
+- Thread synchronization  
+- Async & Tasks  
 - Parallel programming  
 
-### 🔹 Architecture & Design  
+### 🏛 Architecture & Design
 - Dependency Injection  
 - Inversion of Control (IoC)  
 - Open/Closed Principle  
 
-### 🔹 Database Integration  
-- Calling Stored Procedures from C# using ADO.NET  
-
-📌 This course focuses on **depth**, clarity, and correctness — not speed.
+### 🗄 Database Integration
+- Calling Stored Procedures using ADO.NET  
 
 ---
 
-## 📚 Lessons Overview  
-كل درس يحتوي مشروع كامل، وهذه قائمة الدروس الحالية:
+## 📚 Lessons Overview
 
-### Lesson01  
-- Send Data from Form1 to Form2
-
-### Lesson02  
-- Send Data Back from Form2 to Form1 Using Delegate
-
-### Lesson03  
-- User Control
-
-### Lesson04 — Event Examples  
-- New Order Event Example  
-- News Publisher Subscriber Example  
-- Simple Event With Parameters Using Args  
-- SimpleEventWithParameters  
-- Temperature Change Event Example
-
-### Lesson05 — Delegates & Lambda  
-- Action Delegate  
-- Func Delegation  
-- Lambda Expression  
-- Logger Example  
-- Predicate Delegate
-
-### Lesson06 — Using Directives  
-- Using Resources  
-- Using static directive  
-- Using alias (create an alias)
-
-### Lesson07 — Nullable Types  
-- Nullable Data Types  
-- Nullable Data Types Example 2
+| Lesson | Topics |
+|--------|--------|
+| **Lesson01** | Send Data from Form1 to Form2 |
+| **Lesson02** | Send Data Back from Form2 to Form1 Using Delegate |
+| **Lesson03** | User Control |
+| **Lesson04** | Event Examples: New Order • Publisher/Subscriber • Event Args • Simple Events • Temperature Change |
+| **Lesson05** | Action • Func • Predicate • Lambda • Logger Example |
+| **Lesson06** | Using Resources • static directive • alias |
+| **Lesson07** | Nullable Types • Nullable Examples |
 
 ---
 
-## 🎯 Purpose  
-This repository aims to help learners understand advanced C# concepts through practical, real examples instead of theoretical explanations.
-
----
-
-## 🛠 Requirements  
-لتشغيل المشاريع داخل الدروس تحتاج إلى:
-
-- Visual Studio 2019 أو 2022  
-- .NET Framework المناسب لكل درس  
+## 🛠 Requirements
+- Visual Studio 2019 or 2022  
+- .NET Framework (version depends on each lesson)  
 - Windows OS  
 
 ---
 
-## 🔄 Updates  
-كل درس جديد يتم رفعه عبر **Commit مستقل** مع رسالة توضّح محتوى الدرس، لضمان تاريخ واضح ومنظم للتعلم.
+## 🔄 Updates
+Each lesson is added through a **separate commit** with a clear message describing the topic.
 
 ---
 
-## 🧹 Clean Structure  
-تم استخدام ملف `.gitignore` لتنظيف المستودع من الملفات غير الضرورية مثل:
-
-- `.vs/`  
-- `bin/`  
-- `obj/`  
-- ملفات الـ Debug و Release  
+## 🧹 Clean Structure
+The repository uses `.gitignore` to keep the structure clean by excluding:
+- `.vs/`
+- `bin/`
+- `obj/`
+- Debug/Release folders
 
 ---
 
@@ -143,25 +126,21 @@ This repository aims to help learners understand advanced C# concepts through pr
 
 ---
 
-## 🎥 Demo  
-(يمكنك إضافة فيديو لاحقًا إذا رغبت)
-
-[Watch Demo Video](Demo/demo-video.mp4)
-
----
-
-## 👤 Author  
+## 👤 Author
 **Mohammed Al‑Jumaa (MJ)**  
 Junior Desktop / Back-End Developer — C# .NET
 
 ---
 
-## 📩 Contact  
-- **Email:** mohammedaljumaadev@gmail.com  
-- **LinkedIn:** linkedin.com/in/mohammed-al-jumaa  
-- **Instagram:** mohammed.al.jumaa  
+## 📩 Contact
+
+| Platform | Link |
+|----------|------|
+| **Email** | mohammedaljumaadev@gmail.com |
+| **LinkedIn** | <a href="https://linkedin.com/in/mohammed-al-jumaa" target="_blank">Open LinkedIn</a> |
+| **Instagram** | <a href="https://instagram.com/mohammed.al.jumaa" target="_blank">Open Instagram</a> |
 
 ---
 
-## 🔥 Ready for Expansion  
-كل ما تضيف درس جديد، فقط أضف سطر جديد تحت قسم **Lessons Overview** بدون أي تعديل إضافي.
+## 🔥 Ready for Expansion
+When adding a new lesson, simply append it under **Lessons Overview**.
