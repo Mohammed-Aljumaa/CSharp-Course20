@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Datatypes Example 2", "Nullable Datatypes Example 2.csproj", "{589F82A4-0A98-4F46-AFFB-0FE9B5A4093A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589F82A4-0A98-4F46-AFFB-0FE9B5A4093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589F82A4-0A98-4F46-AFFB-0FE9B5A4093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589F82A4-0A98-4F46-AFFB-0FE9B5A4093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589F82A4-0A98-4F46-AFFB-0FE9B5A4093A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2272B76-383D-44B3-9190-583865A8D8EA}
+	EndGlobalSection
+EndGlobal
