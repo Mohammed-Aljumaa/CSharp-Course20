@@ -93,6 +93,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson05** | Action • Func • Predicate • Lambda • Logger Example |
 | **Lesson06** | Using Resources • static directive • alias |
 | **Lesson07** | Nullable Types • Nullable Examples |
+| **Lesson08** | Binary Serialization • JSON Serialization • XML Serialization |
 
 ---
 
