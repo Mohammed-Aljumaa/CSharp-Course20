@@ -53,7 +53,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 ### 🚀 Advanced C# Features
 - Nullable types  
 - Serialization (XML, JSON, Binary)  
-- Attributes (built‑in and custom)  
+- Attributes (Conditional, Obsolete, Custom)  
 - Reflection  
 
 ### 🔍 Deep Language Concepts
@@ -94,6 +94,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson06** | Using Resources • static directive • alias |
 | **Lesson07** | Nullable Types • Nullable Examples |
 | **Lesson08** | Binary Serialization • JSON Serialization • XML Serialization |
+| **Lesson09** | Conditional Attribute • Obsolete Attribute • Custom Attribute |
 
 ---
 
