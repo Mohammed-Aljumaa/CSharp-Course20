@@ -54,7 +54,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 - Nullable types  
 - Serialization (XML, JSON, Binary)  
 - Attributes (Conditional, Obsolete, Custom)  
-- Reflection  
+- Reflection (Type inspection, dynamic creation, custom attributes)
 
 ### 🔍 Deep Language Concepts
 - Mutable vs immutable types  
@@ -95,6 +95,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson07** | Nullable Types • Nullable Examples |
 | **Lesson08** | Binary Serialization • JSON Serialization • XML Serialization |
 | **Lesson09** | Conditional Attribute • Obsolete Attribute • Custom Attribute |
+| **Lesson10** | Reflection (Type Class, Dynamic Creation) • Custom Attributes • Validation Attributes |
 
 ---
 
