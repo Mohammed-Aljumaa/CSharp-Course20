@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection Example 2 - Dynamically Create Objects and Invoke Methods.", "..\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\Reflection Example 2 - Dynamically Create Objects and Invoke Methods..csproj", "{4498EEE2-9EC8-4874-AA6D-4D333CB9005A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4498EEE2-9EC8-4874-AA6D-4D333CB9005A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4498EEE2-9EC8-4874-AA6D-4D333CB9005A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4498EEE2-9EC8-4874-AA6D-4D333CB9005A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4498EEE2-9EC8-4874-AA6D-4D333CB9005A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B718EA6-9326-4B5B-9A5C-70C36B61B8E9}
+	EndGlobalSection
+EndGlobal
