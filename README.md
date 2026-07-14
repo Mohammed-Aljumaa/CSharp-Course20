@@ -55,11 +55,14 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 - Serialization (XML, JSON, Binary)  
 - Attributes (Conditional, Obsolete, Custom)  
 - Reflection (Type inspection, dynamic creation, custom attributes)
+- Generics (classes and methods), mutable vs immutable types, and special C# comments
+
 
 ### 🔍 Deep Language Concepts
 - Mutable vs immutable types  
-- Generics  
+- Generics (methods and classes)  
 - Operator overloading  
+- Special C# comments (documentation, XML comments)
 
 ### 🖥 System-Level Features
 - Windows Registry  
@@ -96,6 +99,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson08** | Binary Serialization • JSON Serialization • XML Serialization |
 | **Lesson09** | Conditional Attribute • Obsolete Attribute • Custom Attribute |
 | **Lesson10** | Reflection (Type Class, Dynamic Creation) • Custom Attributes • Validation Attributes |
+| **Lesson11** | Generic Classes • Generic Methods • Mutable & Immutable Types • Special Comments |
 
 ---
 
