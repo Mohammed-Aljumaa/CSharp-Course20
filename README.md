@@ -56,6 +56,8 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 - Attributes (Conditional, Obsolete, Custom)  
 - Reflection (Type inspection, dynamic creation, custom attributes)
 - Generics (classes and methods), mutable vs immutable types, and special C# comments
+- System-level features: App.config, Windows Registry operations, Logging, StringBuilder performance
+
 
 
 ### 🔍 Deep Language Concepts
@@ -100,6 +102,8 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson09** | Conditional Attribute • Obsolete Attribute • Custom Attribute |
 | **Lesson10** | Reflection (Type Class, Dynamic Creation) • Custom Attributes • Validation Attributes |
 | **Lesson11** | Generic Classes • Generic Methods • Mutable & Immutable Types • Special Comments |
+| **Lesson12** | App.config • Registry (Read/Write/Delete) • Logging • StringBuilder |
+
 
 ---
 
