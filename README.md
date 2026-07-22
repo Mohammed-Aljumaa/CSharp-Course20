@@ -57,6 +57,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 - Reflection (Type inspection, dynamic creation, custom attributes)
 - Generics (classes and methods), mutable vs immutable types, and special C# comments
 - System-level features: App.config, Windows Registry operations, Logging, StringBuilder performance
+- Cryptography fundamentals: symmetric encryption, asymmetric encryption (RSA), and hashing (SHA256)
 
 
 
@@ -103,6 +104,7 @@ This course is part of the <strong>ProgrammingAdvices</strong> roadmap by <stron
 | **Lesson10** | Reflection (Type Class, Dynamic Creation) • Custom Attributes • Validation Attributes |
 | **Lesson11** | Generic Classes • Generic Methods • Mutable & Immutable Types • Special Comments |
 | **Lesson12** | App.config • Registry (Read/Write/Delete) • Logging • StringBuilder |
+| **Lesson13** | Symmetric Encryption • Asymmetric Encryption • Hashing |
 
 
 ---
